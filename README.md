@@ -17,18 +17,17 @@
 ```c
 typedef struct {
     char  name[]     = "LK";
-    char  school[]   = "임베디드시스템공학과 (편입)";
+    char  school[]   = "임베디드시스템공학과";
     char  goal[]     = "펌웨어 개발자";
     char  langs[]    = "C, Python";
     bool  open_to_work = true;
 } Developer;
 ```
 
-- 🎓 임베디드시스템공학과 재학 중 (졸업까지 약 1년)
+- 🎓 임베디드시스템공학과 재학
 - 🔭 현재 **STM32 + FreeRTOS** 공부 중
 - 🤖 **ROS** 기반 로봇 제어 경험 보유
 - 📡 관심 분야: Firmware / Embedded Linux / Edge AI
-- 📖 **CS231n** (Stanford 딥러닝) 수강 중
 
 ---
 
