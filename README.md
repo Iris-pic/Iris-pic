@@ -57,18 +57,6 @@ typedef struct {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Iris-pic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iris-pic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00d4ff&icon_color=00ff9d&text_color=e0e8f0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-pic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00d4ff&text_color=e0e8f0)
-
-</div>
-
----
-
 <div align="center">
 
 *"하드웨어를 이해하는 개발자가 세상을 바꾼다"*
