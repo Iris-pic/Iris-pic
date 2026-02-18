@@ -1,9 +1,82 @@
-<h1 align="center">Hi 👋, I'm leegyeong</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/dlruddl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dlruddl" height="30" width="40" /></a>
-</p>
+<!-- 헤더 타이핑 애니메이션 -->
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+LG+%F0%9F%91%8B;Firmware+Developer+in+the+making;Embedded+%7C+ROS+%7C+C+%7C+Linux)](https://git.io/typing-svg)
 
+<br/>
+
+> 🔧 **펌웨어 개발자를 꿈꾸는 대학생**  
+> 하드웨어를 이해하는 소프트웨어 엔지니어가 되고 싶습니다.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```c
+typedef struct {
+    char  name[]     = "LG";
+    char  school[]   = "임베디드시스템공학과 (편입)";
+    char  goal[]     = "펌웨어 개발자";
+    char  langs[]    = "C, Python";
+    bool  open_to_work = true;
+} Developer;
+```
+
+- 🎓 임베디드시스템공학과 재학 중 (졸업까지 약 1년)
+- 🔭 현재 **STM32 + FreeRTOS** 공부 중
+- 🤖 **ROS** 기반 로봇 제어 경험 보유
+- 📡 관심 분야: Firmware / Embedded Linux / Edge AI
+- 📖 **CS231n** (Stanford 딥러닝) 수강 중
+
+---
+
+## 🛠️ Tech Stack
+
+**언어**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**임베디드 & 하드웨어**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**자격증**
+
+![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-007ACC?style=for-the-badge)
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] STM32 + FreeRTOS 프로젝트 완성
+- [ ] GitHub 포트폴리오 프로젝트 2개 이상
+- [ ] 사회문제 해결형 졸업작품 완성
+- [ ] 펌웨어 개발자 신입 취업 🚀
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Iris-pic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iris-pic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00d4ff&icon_color=00ff9d&text_color=e0e8f0)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-pic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00d4ff&text_color=e0e8f0)
+
+</div>
+
+---
+
+<div align="center">
+
+*"하드웨어를 이해하는 개발자가 세상을 바꾼다"*
+
+![Profile views](https://komarev.com/ghpvc/?username=Iris-pic&color=00d4ff&style=flat-square)
+
+</div>
