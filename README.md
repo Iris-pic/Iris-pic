@@ -1,7 +1,7 @@
 <!-- 헤더 타이핑 애니메이션 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+LG+%F0%9F%91%8B;Firmware+Developer+in+the+making;Embedded+%7C+ROS+%7C+C+%7C+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+LK+%F0%9F%91%8B;Firmware+Developer+in+the+making;Embedded+%7C+ROS+%7C+C+%7C+Linux)](https://git.io/typing-svg)
 
 <br/>
 
