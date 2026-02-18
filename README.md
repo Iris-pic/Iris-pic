@@ -16,7 +16,7 @@
 
 ```c
 typedef struct {
-    char  name[]     = "LG";
+    char  name[]     = "LK";
     char  school[]   = "임베디드시스템공학과 (편입)";
     char  goal[]     = "펌웨어 개발자";
     char  langs[]    = "C, Python";
